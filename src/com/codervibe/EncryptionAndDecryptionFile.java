@@ -11,7 +11,7 @@ import java.io.*;
  *
  * @author Administrator
  * DateTime:2020/12/07 21:21
- * Description: 加密文件和解密文件的windows 图形界面 1.0.0
+ * Description: 加密文件和解密文件的windows 图形界面 1.0.1
  * Others:只是用输入和输出框
  * 输入框输入要加密的字符，输出框输出加密后的字符。
  * 加密方式是BASE64进行左右移动
